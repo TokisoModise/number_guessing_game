@@ -71,3 +71,4 @@ echo -e "\nYou guessed it in $GUESS_COUNT tries. The secret number was $SECRET_N
 # Random number guessing game
 # Database connection setup
 
+# Main game loop
